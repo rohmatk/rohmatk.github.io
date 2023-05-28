@@ -1,0 +1,25 @@
+.resume {
+  font-family: Arial, sans-serif;
+  color: #333;
+  margin: 20px;
+}
+
+.header {
+  text-align: center;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.job {
+  margin-bottom: 10px;
+}
+
+h1, h2, h3 {
+  margin-bottom: 5px;
+}
+
+p {
+  margin: 0;
+}
